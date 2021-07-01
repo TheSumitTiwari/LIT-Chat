@@ -1,0 +1,22 @@
+{
+  "name": "terminalchat",
+  "version": "1.0.0",
+  "description": "chat app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^2.0.0",
+    "chalk": "^4.1.1",
+    "googletrans": "^1.0.2",
+    "neo-blessed": "^0.2.0",
+    "node-banner": "^1.4.0",
+    "node-emoji": "^1.10.0",
+    "play-sound": "^1.1.3",
+    "socket.io": "^4.1.2",
+    "socket.io-client": "^4.1.2"
+  }
+}
